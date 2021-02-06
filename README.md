@@ -1,7 +1,7 @@
-# pittica/prestashop-pitticahomeyoutube
+# pittica/prestashop-homeyoutube
 
-![License](https://img.shields.io/github/license/pittica/prestashop-pitticahomeyoutube)
-![Release](https://img.shields.io/github/v/release/pittica/prestashop-pitticahomeyoutube)
+![License](https://img.shields.io/github/license/pittica/prestashop-homeyoutube)
+![Release](https://img.shields.io/github/v/release/pittica/prestashop-homeyoutube)
 
 YouTube for homepage module for [PrestaShop](https://github.com/prestashop/prestashop).
 
