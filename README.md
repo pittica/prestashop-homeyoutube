@@ -11,5 +11,4 @@ YouTube for homepage module for [PrestaShop](https://github.com/prestashop/prest
 
 ## Copyright
 
-(c) 2021, Pittaca S.r.l.s.
-
+(c) 2021, P[Pittica S.r.l.s.](https://pittica.com).
